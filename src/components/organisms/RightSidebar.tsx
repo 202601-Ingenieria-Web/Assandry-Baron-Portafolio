@@ -8,7 +8,9 @@ import { redesSociales } from "@/data/portfolioData";
 export default function RightSidebar() {
   return (
     <aside className="sidebar-right flex flex-col items-center py-8 gap-4">
-      <p className="font-heading font-bold text-gray-700 text-xs tracking-widest uppercase mb-1">Links</p>
+      <p className="font-heading font-bold text-gray-700 text-xs tracking-widest uppercase mb-1">
+        Links
+      </p>
       {redesSociales.map((red) => (
         <a
           key={red.nombre}

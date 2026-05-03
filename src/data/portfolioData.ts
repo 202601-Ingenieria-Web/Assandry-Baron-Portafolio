@@ -2,8 +2,8 @@
 // Datos centralizados del portafolio de Assandry Baron Rodriguez
 
 export const personalInfo = {
-  nombre: "Assandry Baron",
-  nombreCompleto: "Assandry Enrique Baron Rodriguez",
+  nombre: "Assandry Barón",
+  nombreCompleto: "Assandry Enrique Barón Rodriguez",
   titulo: "Ingeniero de Sistemas en Formación",
   ciudad: "Marinilla, Antioquia",
   telefono: "301 549 3547",
@@ -143,8 +143,8 @@ export const proyectos = [
     descripcionDetallada:
       "Proyecto evaluativo de la materia Ingeniería Web. Implementación de un portafolio personal completo usando Next.js 14, TypeScript, TailwindCSS con diseño responsivo, atomic design, componentes reutilizables, modales, scroll horizontal y despliegue en Vercel.",
     tecnologias: ["Next.js", "TypeScript", "TailwindCSS", "Vercel"],
-    github: "https://github.com",
-    demo: "https://vercel.com",
+    github: "https://github.com/AssandryBaron/Assandry-Baron-Portafolio",
+    demo: "https://assandry-baron.vercel.app/",
   },
   {
     titulo: "Gestor de Tareas Domésticas",
@@ -154,7 +154,7 @@ export const proyectos = [
     descripcionDetallada:
       "Proyecto desarrollado en la Fábrica Escuela de la Universidad de Antioquia. Sistema fullstack para la gestión de tareas domésticas: permite crear, asignar, priorizar y hacer seguimiento de tareas del hogar. El backend expone una API REST construida con Spring Boot y Java, la base de datos está gestionada con PostgreSQL, el frontend es una SPA en React con TypeScript, y el despliegue del frontend se realiza en Vercel.",
     tecnologias: ["React", "Spring Boot", "Java", "PostgreSQL", "TypeScript", "Vercel"],
-    github: "https://github.com",
+    github: "https://github.com/CristianAlvarez00/sistema-domesticas-back",
     demo: "",
   },
   {
@@ -165,7 +165,7 @@ export const proyectos = [
     descripcionDetallada:
       "ScoreLab es una plataforma fullstack para la creación y gestión de torneos deportivos. Permite registrar equipos y jugadores, generar fixtures automáticos, registrar resultados de partidos y consultar tablas de posiciones actualizadas en tiempo real. El backend está construido con Spring Boot y Java, expone una API REST consumida por el frontend en React. La base de datos es PostgreSQL y el despliegue se realiza en la nube.",
     tecnologias: ["React", "Spring Boot", "Java", "PostgreSQL", "TypeScript", "REST API"],
-    github: "https://github.com",
+    github: "https://github.com/AssandryBaron/scorelab-backend",
     demo: "",
   },
 ];

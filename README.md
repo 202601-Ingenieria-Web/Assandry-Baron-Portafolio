@@ -6,18 +6,18 @@ Portafolio personal desarrollado con Next.js 14, TypeScript y TailwindCSS.
 ## 🚀 Demo
 
 **Vercel:** [assandry-baron.vercel.app](https://assandry-baron.vercel.app)  
-**Repositorio:** [github.com/tu-usuario/assandry-baron-rodriguez-portafolio](https://github.com)
+**Repositorio:** [https://github.com/AssandryBaron/Assandry-Baron-Portafolio](https://github.com)
 
 ---
 
 ## 🛠 Tecnologías usadas
 
-| Tecnología | Versión | Propósito |
-|---|---|---|
-| Next.js | 14.2.3 | Framework React con App Router |
-| TypeScript | ^5 | Tipado estático del código |
-| TailwindCSS | ^3.3 | Estilos utilitarios |
-| React | ^18 | Biblioteca de UI |
+| Tecnología  | Versión | Propósito                      |
+| ----------- | ------- | ------------------------------ |
+| Next.js     | 14.2.3  | Framework React con App Router |
+| TypeScript  | ^5      | Tipado estático del código     |
+| TailwindCSS | ^3.3    | Estilos utilitarios            |
+| React       | ^18     | Biblioteca de UI               |
 
 ---
 
@@ -64,6 +64,7 @@ El proyecto implementa **Atomic Design** con 3 niveles:
 ## 📦 Cómo ejecutar localmente
 
 ### Prerrequisitos
+
 - Node.js >= 18
 - npm o yarn
 
@@ -71,7 +72,7 @@ El proyecto implementa **Atomic Design** con 3 niveles:
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/tu-usuario/assandry-baron-rodriguez-portafolio.git
+git clone https://github.com/AssandryBaron/Assandry-Baron-Portafolio.git
 cd assandry-baron-rodriguez-portafolio
 
 # 2. Instalar dependencias
@@ -104,15 +105,15 @@ npm start
 
 ## 📐 Secciones del portafolio
 
-| Sección | Componente | Descripción |
-|---|---|---|
-| Sidebar izquierdo | `LeftSidebar` | Foto, nombre, contacto, idiomas, lenguajes, habilidades |
-| Perfil | `ProfileSection` | Hero con foto en fondo blanco + modal informativo |
-| Conocimientos | `KnowledgeCard` | 6 cards con ícono, título y descripción |
-| Educación | `EducationCard` | Timeline de estudios formales y certificaciones |
-| Portafolio | `ProjectCard` | Scroll horizontal de proyectos con modal de detalle |
-| Footer | `page.tsx` | Footer de diseño libre con stack tecnológico |
-| Sidebar derecho | `RightSidebar` | Íconos de GitHub, LinkedIn y email |
+| Sección           | Componente       | Descripción                                             |
+| ----------------- | ---------------- | ------------------------------------------------------- |
+| Sidebar izquierdo | `LeftSidebar`    | Foto, nombre, contacto, idiomas, lenguajes, habilidades |
+| Perfil            | `ProfileSection` | Hero con foto en fondo blanco + modal informativo       |
+| Conocimientos     | `KnowledgeCard`  | 6 cards con ícono, título y descripción                 |
+| Educación         | `EducationCard`  | Timeline de estudios formales y certificaciones         |
+| Portafolio        | `ProjectCard`    | Scroll horizontal de proyectos con modal de detalle     |
+| Footer            | `page.tsx`       | Footer de diseño libre con stack tecnológico            |
+| Sidebar derecho   | `RightSidebar`   | Íconos de GitHub, LinkedIn y email                      |
 
 ---
 
@@ -138,4 +139,4 @@ Ingeniería de Sistemas — Universidad de Antioquia (Nivel 9)
 
 ---
 
-*Proyecto evaluativo #1 — Ingeniería Web — 2026*
+_Proyecto evaluativo #1 — Ingeniería Web — 2026_
